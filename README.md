@@ -1,1 +1,1 @@
-# acp
+#Usaremos el conjunto de datos de dígitos MNIST, que viene preinstalado en sklearn. Este conjunto de datos tiene imágenes de 8x8 pixeles de dígitos escritos a mano del 0 al 9. Tu #tarea es clasificarlos para determinar qué dígitos son. Usa el ACP para decrementar las dimensiones en este conjunto de datos. Luego, usa un algoritmo de clasificación de tu #elección para clasificar los dígitos. Nota que depende de ti determinar cuántos componentes principales usar para tu modelo, para conseguir un 95% de varianza en los datos.
